@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         A92 Atalho Pausas - Luiz Toledo
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      2.0
 // @description  Insere botões de pausa com timer e notificações periódicas via GM_notification.
 // @author       Luiz Toledo
 // @match        http://qm.coger.net.br:8080/queuemetrics/*
